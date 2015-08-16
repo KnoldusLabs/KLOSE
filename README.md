@@ -1,1 +1,5 @@
-Coming soon
+KLOSE is a security libraqry which implementes protocols of OAuth 2.0.  Knoldus Lab's has tried to overcome all the short comings of the present OAuth2 library for scala and it also has other features embeded in it. It has not only implemented the protocols of OAuth2 precisely but also provides additional authorization framework to secure the end points. Where OAuth2 is used for resou​r​ce servers, client server's security needs to be implemented anyway and therefore client server's security is also taken care of by KnoldusLab by implementing its additional plugins for librar​ies​ like Silhouette ​and Secure Social. ​It gives a light weight implementation of client server's security which makes it user friendly. It has a core part which basically takes care of all the possible OAuth2 implementation and it does not need any query to handle request response. This core library ​can be easily integrated with the  Play framework ​and Akka HTTP to fulfill all the ​requirements of O​Auth2 in addition to providing easily configurable authorization features.
+ 
+Apart from this there ​are several seed projects which will be quite useful to setup any new projects with this ​KLOSE.
+
+The library will be available as a open souce very soon.
