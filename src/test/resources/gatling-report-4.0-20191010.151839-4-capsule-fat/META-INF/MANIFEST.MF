@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: gatling-report
+Implementation-Version: 4.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: jenkins
+Specification-Title: gatling-report
+Implementation-Vendor-Id: org.nuxeo.tools
+JVM-Args: 
+Main-Class: Capsule
+Premain-Class: Capsule
+Application-Class: org.nuxeo.tools.gatling.report.App
+System-Properties: 
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_191
+Specification-Version: 4.0-SNAPSHOT
+Min-Java-Version: 1.8.0
+
